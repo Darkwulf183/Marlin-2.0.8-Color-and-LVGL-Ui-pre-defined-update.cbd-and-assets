@@ -1,5 +1,5 @@
 # This repository is a ready to install Version of the official Marlin, with Tronxy X5SA (and variants) ready for install.
-
+# Important: The Z steps are not correct for all Pre defined !!!! They are set to 700 steps/mm. But it must be 800 steps/mm. Please change before the first print!!!!
 
 ## JUST uncomment the option for your machine
 ```cpp

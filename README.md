@@ -1,6 +1,6 @@
 # This repository is a ready to install Version of the official Marlin, with Tronxy X5SA (and variants) ready for install.
 # Important: The Z steps are not correct for almost all predefined boards !!!! They are set to 700 steps/mm for all V5 and V6 boards except V6 190319. But they have to be 800 steps/mm. Please change the setting before the first print!!!! For the V6 190319 it is correct with 400 steps/mm.
-## Beware of the LVGL Ui. This one is buggy with the Chitu boards. Only those who know exactly how to avoid the errors should use them!
+## Beware of the LVGL Ui. This one is bugy with the Chitu boards. Only those who know exactly how to avoid the errors should use them!
 
 ## JUST uncomment the option for your machine
 ```cpp
